@@ -5,7 +5,7 @@ you need a c++ and dx10sdk
 # dx10sdk
 https://www.microsoft.com/ja-jp/download/details.aspx?id=6812
 
-#c++
+# c++
 https://learn.microsoft.com/ja-jp/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
 # if you got s1023 error
